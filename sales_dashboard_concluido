@@ -1,0 +1,99 @@
+Estrutura Final do Arquivo: dashboard_xbox_finalizado.xlsx
+Aba: Dashboard
+
+XBOX GAME PASS SUBSCRIPTIONS SALES
+
+[Indicadores (KPIs)]
+
+Total Subscriptions Sold: 2.824
+Active Subscriptions: 747
+Calculation Period: 01/01/2024 - 31/12/2024
+Update Date: 25/12/2024 09:00:00
+
+[Gráfico de Linha] - Monthly Sales Evolution
+Month       | Total Sales (R$)
+-------------------------------
+January     | 2.500,00
+February    | 2.700,00
+March       | 2.600,00
+April       | 3.000,00
+May         | 3.200,00
+June        | 3.100,00
+July        | 3.300,00
+August      | 3.500,00
+September   | 3.400,00
+October     | 3.600,00
+November    | 4.000,00
+December    | 4.500,00
+
+[Gráfico de Barras] - Products Most Sold
+Product Name              | Units Sold
+----------------------------------------
+Xbox Game Pass 1 Month    | 1.200
+Xbox Game Pass 3 Months   | 1.000
+Xbox Game Pass 12 Months  | 624
+
+[Gráfico de Pizza] - Sales by Region
+Region          | % of Sales
+-------------------------------
+Southeast       | 45%
+South           | 20%
+Northeast       | 15%
+North           | 10%
+Midwest         | 10%
+
+[Gráfico de Colunas Agrupadas] - Sales Channel x Product
+Product               | Online | In-Store
+-------------------------------------------
+Xbox Game Pass 1 Mês  | 1.000  | 200
+Xbox Game Pass 3 Meses| 850    | 150
+Xbox Game Pass 12 Meses| 550   | 74
+
+Welcome, DIO Excel
+
+Dica: Use Tabelas Dinâmicas e Gráficos Dinâmicos no Excel para vincular esses dados à aba "Dados". Adicione também Slicers para filtros interativos por produto, região e data. 
+
+Aba: Dados
+
+Sale Date   | Product                  | Quantity | Unit Price | Region    | Channel
+---------------------------------------------------------------------------------------
+01/01/2024  | Xbox Game Pass 1 Month   | 5        | R$ 39,90   | São Paulo | Online
+02/01/2024  | Xbox Game Pass 3 Months  | 3        | R$ 99,90   | Rio de Janeiro | Online
+03/01/2024  | Xbox Game Pass 12 Months | 2        | R$ 399,90  | Belo Horizonte | Store
+05/01/2024  | Xbox Game Pass 1 Month   | 4        | R$ 39,90   | Porto Alegre | Online
+06/01/2024  | Xbox Game Pass 3 Months  | 2        | R$ 99,90   | Salvador | Store
+07/01/2024  | Xbox Game Pass 12 Months | 1        | R$ 399,90  | Fortaleza | Online
+10/01/2024  | Xbox Game Pass 1 Month   | 6        | R$ 39,90   | Brasília | Online
+12/01/2024  | Xbox Game Pass 3 Months  | 3        | R$ 99,90   | Curitiba | Store
+15/01/2024  | Xbox Game Pass 12 Months | 3        | R$ 399,90  | São Paulo | Online
+
+Como Montar no Excel
+Etapas:
+
+1. Crie uma nova pasta de trabalho no Excel
+
+2. Renomeie duas abas para:
+- Dados
+- Dashboard
+
+3. Cole os dados acima na aba Dados
+
+4. Na aba Dashboard, crie tabelas dinâmicas:
+- Produtos mais vendidos
+- Regiões com mais vendas
+- Canais de venda (Online / Loja física)
+
+5. Insira gráficos dinâmicos com base nas tabelas
+
+6. Adicione KPIs:
+- Faturamento total
+- Ticket médio
+- Total de vendas
+
+7. Use Slicers para filtros interativos por produto, região e data
+
+8. Finalize com layout profissional: cores, título, logo (opcional)
+
+
+
+
